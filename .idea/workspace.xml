@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02f1188f-c02a-4857-908a-8b3c6ede7512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task_1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/src/__performance__.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/src/__tests__.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/src/__perfomance__.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/src/__tests__.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/task_1/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574692249733</updated>
-      <workItem from="1574692252231" duration="28008000" />
+      <workItem from="1574692252231" duration="28388000" />
     </task>
     <servers />
   </component>
